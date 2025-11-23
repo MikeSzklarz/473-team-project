@@ -8,3 +8,7 @@
 
 verify_runs
 benchmark_runs
+
+c_code/sw2d_serial
+c_code/sw2d_omp
+c_code/sw2d_pthread
