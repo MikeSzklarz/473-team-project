@@ -1,0 +1,10 @@
+!/**/
+!*.*
+
+*.o
+*.mp4
+*.bin
+*.exe
+
+verify_runs
+benchmark_runs
